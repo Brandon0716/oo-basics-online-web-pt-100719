@@ -2,6 +2,7 @@
 
 class Shoe 
   
-  def intialize(shoe)
-  end
+ def intialize(shoe)
+  
+ end
   
