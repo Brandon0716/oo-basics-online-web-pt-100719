@@ -42,4 +42,5 @@ class Shoe
    
    def cobble
      puts "that the show has been repaired"
+   end
  end
