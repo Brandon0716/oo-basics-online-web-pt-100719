@@ -5,5 +5,7 @@ class Shoe
     @brand = brand
   end
   
-  def color
+  def brand
+    @brand
+  end
  end
