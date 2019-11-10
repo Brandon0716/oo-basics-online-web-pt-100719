@@ -23,6 +23,7 @@ class Book
    @page_count
  end
   
+  def genre=
 end
 
 Book.new("And Then There Were None")
